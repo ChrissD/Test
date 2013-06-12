@@ -33,7 +33,6 @@ int main(void)
 	                     0xAF,    //Display on
 	                     0xb0,    //Page 0 einstellen
 	                     0x10,    //High-Nible der Spaltenadresse
-	                     0x00     //Low-Nible der Spaltenadresse
 	                     };
 
 	int i = 0;
